@@ -1,7 +1,7 @@
 # 4.Execution_of_NetworkCommands
-## NAME : HIRUTHIK SUDHAKAR
+## NAME : Keerthan D
 
-## REGISTER NUMBER : 212223240054
+## REGISTER NUMBER : 212224240075
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
 Command Prompt And Network Protocol Analyzer
